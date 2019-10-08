@@ -1,0 +1,6 @@
+{
+    "glob": ["src/**/*.js", "config/jest/*.js", "package.json", "config/webpack/webpack.*.js"],
+    "except": ["src/**/*.stories.js"],
+    "github": false,
+    "--no-strip": true
+}

@@ -220,7 +220,7 @@
     "jest-watch-typeahead": "^0.3.0",
     "mini-css-extract-plugin": "^0.6.0",
     "morgan": "^1.9.0",
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "offline-plugin": "^5.0.6",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-cssnext": "^3.1.0",
